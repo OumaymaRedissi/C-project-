@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1608110488 source:c:\users\oumayma\desktop\projetc\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"bib.h"
+
+1608110867 source:c:\users\oumayma\desktop\projetc\bib.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"bib.h"
+
+1608110867 c:\users\oumayma\desktop\projetc\bib.h
+
+1608470007 source:c:\users\oumayma\desktop\projetc - copy (2)\bib.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"bib.h"
+
+1608463736 c:\users\oumayma\desktop\projetc - copy (2)\bib.h
+
+1608466505 source:c:\users\oumayma\desktop\projetc - copy (2)\main.cpp
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"bib.h"
+
